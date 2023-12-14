@@ -1,0 +1,99 @@
+Google Forms
+
+
+Thanks for filling out AR/VR Responses 2.0
+Here's what was received.
+
+Edit response
+
+
+AR/VR Responses 2.0
+
+
+Your email (himakarraju@google.com) was recorded when you submitted this  
+form.
+
+
+Select the correct section? *
+
+
+Video claimed
+
+
+Video submitted
+
+
+kindly fill the video details which you have submnitted
+
+
+Sequence_Link Screenshot *
+
+Update overall tool screenshot
+
+
+https://screenshot.googleplex.com/C3tFYogNSzgHRqP
+
+
+Annotation Type *
+
+Update annotation type
+
+
+Perception Video
+
+
+
+Sub Annotation Type *
+
+Update annotation type
+
+
+Tip And Wrist
+
+
+
+Total Frames (Number of Annotation) *
+
+Overall frames count (Eg. 150, 765, 956, 1115, 1233)
+
+
+33
+
+
+Question_id *
+
+Update question_id of Video
+
+
+986a401386990cbfbf0f64c111603fb3+moohan_shared+hands_both_thumb_index_tip_1691693670935_train+INTERNAL+en:1030641610530984726
+
+
+Number of annotation Count *
+
+Total Annotation Count ( Keyframes 1)
+
+
+66
+
+
+Number of annotation Count *
+
+Total Annotation Count ( Keyframes 2)
+
+
+0
+
+
+Number of annotation Count *
+
+Total Annotation Count ( Keyframes 3)
+
+
+0
+
+
+Comments
+
+
+Create your own Google Form
+
