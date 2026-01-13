@@ -19,7 +19,7 @@ function logSubmissions()
 
   //var msgsLength=messages.length
   //Open the spreadsheet
-  var spreadsheet = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1xi0toHlhCKykWFDFOazwUcCq3limFs/edit#gid=0");
+  var spreadsheet = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1xi0toHlhCKykWFDFOazwUc/edit#gid=0");
 
   //For each email in the threads, parse the important bits
   for(var m=0;m<messages.length;m++)
