@@ -10,7 +10,7 @@ Edit response
 AR/VR Responses 2.0
 
 
-Your email (himakarraju@google.com) was recorded when you submitted this  
+Your email (himak@go.com) was recorded when you submitted this  
 form.
 
 
@@ -31,7 +31,7 @@ Sequence_Link Screenshot *
 Update overall tool screenshot
 
 
-https://screenshot.googleplex.com/C3tFYogNSzgHRqP
+https://screens.goolex.com/C3tFYogNSzgHRqP
 
 
 Annotation Type *
@@ -65,7 +65,7 @@ Question_id *
 Update question_id of Video
 
 
-986a401386990cbfbf0f64c111603fb3+moohan_shared+hands_both_thumb_index_tip_1691693670935_train+INTERNAL+en:1030641610530984726
+986a401fb3+moohan_shared+hands_both_thumb_index_tip_1691693670935_train+INTERNAL+en:1030641610530984726
 
 
 Number of annotation Count *
