@@ -21,7 +21,7 @@ function logSubmissions()
 
   //var msgsLength=messages.length
   //Open the spreadsheet
-  var spreadsheet = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1xi0toHlhCKyugFROxkhiIaNMkWFDFOazwUcCq3limFs/edit#gid=0");
+  var spreadsheet = SpreadsheetApp.openByUrl("https://docs.go.co/spreads/d/1xi0toHlhCKyugFROxkhiIaNMkWFDFOazwUcCq3limFs/edit#gid=0");
 
   
   // var rows = ["Screenshot","Annotation Type","Sub Annotation Type","Overall Frames","Question ID","Total Annotation Count","Comments"];
